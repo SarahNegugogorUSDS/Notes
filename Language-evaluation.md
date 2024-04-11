@@ -1,7 +1,7 @@
 - Native speakers don't usually take any tests to get certified
 - Even native speakers have to be aware of dialect differences and cultural nuances
 - Bilingual skills are useful when working with stakeholders also
-- When applying to USDS you don't know what you're applying to - very general; both were surprised that bilingual skills were helpful
+- When applying to USDS you don't know what you're applying to - it's very general; both were surprised that bilingual skills were helpful
 - Probably need to put this question in application process (Which languages do you speak?)
   - Ask their proficiency level
   - Ask during interview process if they want to do language assessment
@@ -15,5 +15,5 @@
 - Have language assessment be a separate part of the interview structure, not assessing subject-matter skills
 - Be clear that language skills are added value; still need to meet basic requirements
 - When bilingual skills are salient, divisions between COPs become less important
-- Should we set a goal of how many people we need to bring in?
-- Look at data to identify need - how many projects have needed bilingual skills?
+- Have we set a goal of how many bilingual people we need to bring in?
+- What data have we used to identify need - how many projects have needed bilingual skills?
