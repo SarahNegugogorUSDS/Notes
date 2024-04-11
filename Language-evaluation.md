@@ -1,0 +1,19 @@
+- Native speakers don't usually take any tests to get certified
+- Even native speakers have to be aware of dialect differences and cultural nuances
+- Bilingual skills are useful when working with stakeholders also
+- When applying to USDS you don't know what you're applying to - very general; both were surprised that bilingual skills were helpful
+- Probably need to put this question in application process (Which languages do you speak?)
+  - Ask their proficiency level
+  - Ask during interview process if they want to do language assessment
+- Want to be strategic about when we ask Glori and Charlie to do interviews
+- They feel confident in their ability to evaluate Spanish speakers
+- Perhaps ask applicants to submit written sample (from previous work)
+  - If they select Spanish, perhaps ask them to write their blurb about why they want to join USDS in Spanish
+- Need to have intermediate skills at least; Glori feels they need to be fluent, especially with stakeholders
+  - Can be difficult situations, talking about sensitive things
+  - Intermediate can be good for assisting fluent speakers (taking notes)
+- Have language assessment be a separate part of the interview structure, not assessing subject-matter skills
+- Be clear that language skills are added value; still need to meet basic requirements
+- When bilingual skills are salient, divisions between COPs become less important
+- Should we set a goal of how many people we need to bring in?
+- Look at data to identify need - how many projects have needed bilingual skills?
